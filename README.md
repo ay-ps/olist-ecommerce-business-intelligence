@@ -281,7 +281,7 @@ Based on the analytical framework, the following recommendations can be consider
 This project demonstrates how raw e-commerce transaction data can be transformed into actionable business intelligence through a structured analytical workflow, connecting data preparation with analytical reasoning and business strategies.
 
 ---
-**Author:** Ayu Parnida Sinaga  
+**Author:** Ayu Sinaga  
 *Data Analytics / Business Intelligence Portfolio Project*  
 *Tools used: Python | Pandas | PostgreSQL | SQL | Power BI | GitHub*
 
