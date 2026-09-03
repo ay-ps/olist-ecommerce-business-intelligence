@@ -224,19 +224,19 @@ The final business intelligence layer transforms the analytical results into an 
 
 **Executive Overview**
 Focuses on the most important business KPIs and overall performance trends.
-![Executive Overview](images/dashboard_page_1.png)
+![Executive Overview](images/dashboard_page_1.jpg)
 
 **Customer Analysis**
 Focuses on customer distribution and geographic behavior.
-![Customer Analysis](images/dashboard_page_2.png)
+![Customer Analysis](images/dahboard_page_2.jpg)
 
 **Product Performance**
 Focuses on product and category-level performance.
-![Product Performance](images/dashboard_page_3.png)
+![Product Performance](images/dahboard_page_3.jpg)
 
 **Delivery & Customer Experience**
 Combines operational delivery performance with customer experience indicators.
-![Delivery & Customer Experience](images/dashboard_page_4.png)
+![Delivery & Customer Experience](images/dahboard_page_4.jpg)
 
 ---
 
